@@ -106,14 +106,14 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:freemankevin/Article
+  repo: git@github.com:freemankevin/Article.git
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 algolia:
   applicationID: 'O3AB73GDVU'
   apiKey: 'b3f1048d604fe9a6c9648855741c1e6d'
-  indexName: 'freemankevin'
+  indexName: 'article'
   chunkSize: 5000
   fields:
     - title
