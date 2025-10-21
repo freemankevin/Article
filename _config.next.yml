@@ -87,11 +87,11 @@ open_graph:
     type: blog
     title: Freeman's Article
     description: A blog about ideas and aesthetics
-    url: https://freemankevin.uk
-    image: /images/avatar.png
+    url: https://article.freemankevin.uk
+    image: /images/avatar.jpg
     site_name: Freeman's Article
     twitter_card: summary_large_image
-    twitter_image: /images/avatar.png
+    twitter_image: /images/avatar.jpg
 
 
 # ---------------------------------------------------------------
@@ -106,7 +106,7 @@ menu:
   home: / || fa fa-home
   #about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
-  #categories: /categories/ || fa fa-th
+  # categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
