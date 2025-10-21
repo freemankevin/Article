@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://freemankevin.uk">
-    <img src="https://raw.githubusercontent.com/FreemanKevin/freemankevin.github.io/gh-pages/images/avatar.jpg" width="220" alt="Kevin's Notes">
-  </a>
-</p>
-
-<p align="center">
   <strong>
     A blog about ideas and aesthetics, built with
     <a href="https://hexo.io">Hexo</a>
