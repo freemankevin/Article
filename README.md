@@ -1,11 +1,3 @@
-<p align="center">
-  <strong>
-    A blog about ideas and aesthetics, built with
-    <a href="https://hexo.io">Hexo</a>
-  </strong>
-</p>
-
-
 ## Quick Start
 ```shell
 # clone project
